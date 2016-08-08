@@ -1,3 +1,5 @@
+# I forgot how math worked so this is incomplete
+
 import math
 import statistics as st
 from decimal import Decimal
